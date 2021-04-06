@@ -1,0 +1,18 @@
+{
+  "account": {
+    "bankCode": "033",
+    "branchCode": "3409",
+    "accountNumber": "10922394",
+    "cardNumber": ""
+  },
+  "context": {
+    "bank": "033",
+    "branch": "1417",
+    "terminalCode": "88",
+    "premise": "0",
+    "operatorCode": "506",
+    "supervisor": "0"
+  },
+  "operatorUserCode": "T599555",
+  "terminal": "678"
+}
